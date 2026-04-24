@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://deck-patio-builder-louisville-ky.netlify.app/sitemap.xml
